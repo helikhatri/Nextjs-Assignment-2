@@ -1,0 +1,1 @@
+DATABASE_URL= "mongodb+srv://db-user-64:1wxaM4VRxWQah2px@cluster0.dqqag.mongodb.net/?retryWrites=true&w=majority"
